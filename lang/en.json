@@ -3,6 +3,10 @@
     "defaultMessage": "An example app integrating React Intl with Next.js",
     "description": "Index Page: Meta Description"
   },
+  "G96FRf": {
+    "defaultMessage": "I really hate this guy",
+    "description": "Index Page: So what..."
+  },
   "I0B7AG": {
     "defaultMessage": "Hello, World!",
     "description": "Index Page: Content"
@@ -11,9 +15,17 @@
     "defaultMessage": "React Intl Next.js Example",
     "description": "Default document title"
   },
+  "Lk8g3X": {
+    "defaultMessage": "Un-related content",
+    "description": "Index Page: I don't know"
+  },
   "Ml7614": {
     "defaultMessage": "Home",
     "description": "Nav: Index name"
+  },
+  "Nf/5W8": {
+    "defaultMessage": "Totally about me",
+    "description": "About page: Who cares"
   },
   "WIATrC": {
     "defaultMessage": "This page is powered by Next.js",
@@ -26,5 +38,9 @@
   "n5ul5I": {
     "defaultMessage": "About",
     "description": "Nav: About item"
+  },
+  "yxLtDB": {
+    "defaultMessage": "What is this",
+    "description": "Index Page: This is a random thing"
   }
 }
